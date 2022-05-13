@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961209864462",
+    "project_id": "porkapp-4d176",
+    "storage_bucket": "porkapp-4d176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961209864462:android:4fb53a9042483c5840c75f",
+        "android_client_info": {
+          "package_name": "com.example.porkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961209864462-hokdbccfgelvumvhbd47ufa63bl99jnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8UbVIs_B26tWXSUEvDAbJsi8dl_JOJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961209864462-hokdbccfgelvumvhbd47ufa63bl99jnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
